@@ -48,4 +48,4 @@ The script output, validates our analysis with concrete figures. Here is a summa
 With a p-value significantly less than 0.05, the results indicate a statistically significant association between immigration status and employment status. This supports the hypothesis that immigration status may influence employment outcomes for recent graduates. The detailed output provides evidence of this association and underscores the relevance of the Chi-Squared test in our analysis.
 
 ## Note
-This project is intended for educational purposes and provides a foundation for further research into the impact of immigration status on employment outcomes.
+This project provides a foundation for further research into the impact of immigration status on employment outcomes.
