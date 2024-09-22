@@ -90,7 +90,7 @@ Application Overview
 
 When a CSV file is uploaded, the web app will analyze the data and provide results like:
 
-![Results](backend/image.png)
+![Results](backend/results.png)
 
 Data
 ----
